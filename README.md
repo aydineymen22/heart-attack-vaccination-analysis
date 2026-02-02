@@ -127,3 +127,7 @@ Reporting practices
 
 Approach:
 Results are framed strictly as associations, not causal claims.
+
+## 📎 Disclaimer
+This project is for educational and analytical purposes only.
+It does not make medical or public-health recommendations.
