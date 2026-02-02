@@ -230,4 +230,5 @@ ax2.set_ylabel("Vaccinated %")
 
 plt.title(f"{country}: Vaccination vs Death Rate Over Time")
 plt.show()
+
 plt.savefig("../figures/vaccination_vs_death_rate.png")
